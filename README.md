@@ -1,0 +1,2 @@
+# WebQuiz
+Just a redirect
